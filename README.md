@@ -1,6 +1,7 @@
 # project_cnn_diffusion
 
-진행할 것들
+2025 프로젝트종합설계1 
+cnn을 활용한 차선 검출 및 diffusion model을 활용한 차선 복원
 
 ## cnn
 
